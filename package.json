@@ -1,7 +1,6 @@
 {
   "name": "express-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
@@ -9,6 +8,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tochituru/expressRouter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tochituru/expressRouter/issues"
+  },
+  "homepage": "https://github.com/Tochituru/expressRouter#readme",
+  "description": ""
 }
